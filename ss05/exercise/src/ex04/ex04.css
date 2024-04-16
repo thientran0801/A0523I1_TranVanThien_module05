@@ -1,0 +1,54 @@
+.container {
+    width: 300px;
+    margin: auto;
+}
+
+label {
+    width: 500px;
+    display: block;
+}
+
+input, textarea  {
+    width: 50%;
+}
+
+.custom-input {
+    padding-bottom: 2%;
+}
+
+.custom-input-error label {
+    color: red;
+}
+
+.custom-input-error input {
+    border: 2px solid red;
+    border-radius: 4px;
+}
+
+.custom-input-error textarea {
+    border: 2px solid red;
+    border-radius: 4px;
+}
+
+.error {
+    color: red;
+    margin: 0;
+}
+
+.width-auto {
+    width: auto;
+}
+
+.flex {
+    display: flex;
+}
+.radio input {
+    width: 50px;
+}
+.checkbox input {
+    width: 20px;
+}
+.strong{
+    font-weight: bold;
+
+}
