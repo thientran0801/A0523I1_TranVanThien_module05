@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8b6e3a1-f278-4abf-b3fd-6926dc19e46d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/data/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2fEFFc5KcKBfQyJp4UuxS28tFX8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="20.12.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo/ss6" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codegym\module05\ss06\practice\src\pr3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codegym\module05\ss06\exercise\src" />
+      <recent name="D:\codegym\module05\ss06\practice\src" />
+      <recent name="D:\codegym\module05\ss06\practice\src\pr3" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8b6e3a1-f278-4abf-b3fd-6926dc19e46d" name="Default Changelist" comment="" />
+      <created>1713358227838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713358227838</updated>
+      <workItem from="1713358229354" duration="4246000" />
+      <workItem from="1713362540167" duration="1229000" />
+      <workItem from="1713369030670" duration="4120000" />
+      <workItem from="1713408210906" duration="1294000" />
+      <workItem from="1713419351689" duration="6684000" />
+      <workItem from="1713432567950" duration="11490000" />
+      <workItem from="1713482058603" duration="3374000" />
+      <workItem from="1713526564710" duration="1260000" />
+      <workItem from="1713530549498" duration="5873000" />
+      <workItem from="1713577244159" duration="13711000" />
+      <workItem from="1713605847380" duration="2479000" />
+      <workItem from="1713626217785" duration="4399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1713533014591">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1713533014591" />
+    <state x="548" y="150" key="FileChooserDialogImpl" timestamp="1713591766420">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="150" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1713591766420" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1713531078459">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1713531078459" />
+  </component>
+</project>
